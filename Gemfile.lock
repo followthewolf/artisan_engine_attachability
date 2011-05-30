@@ -1,6 +1,5 @@
-GIT
-  remote: git@github.com:followthewolf/artisan_engine_core.git
-  revision: be35be4a28b0e60c2ce8c07d575f150dcec64d7f
+PATH
+  remote: ../core
   specs:
     artisan_engine_core (0.0.1)
       barista (= 1.0.0)
@@ -12,9 +11,8 @@ GIT
       rails (= 3.0.7)
       rdiscount (= 1.6.8)
 
-GIT
-  remote: git@github.com:followthewolf/artisan_engine_listability.git
-  revision: 690c1077983462ec1391f2ed43edc59a23e63cd9
+PATH
+  remote: ../listability
   specs:
     artisan_engine_listability (0.0.1)
       artisan_engine_core

@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:followthewolf/artisan_engine_core.git
-  revision: eba562bd307447214d87128fb1dde8e9203d5694
+  revision: 05d49a809f6974d5bd19149197c19140e9abaeed
   specs:
     artisan_engine_core (0.0.1)
       barista (= 1.0.0)
@@ -14,7 +14,7 @@ GIT
 
 GIT
   remote: git@github.com:followthewolf/artisan_engine_listability.git
-  revision: befe8813676f270988044d2da2d11e67ac552f9a
+  revision: 9de63587db12a275b63812235e574ff77628cf3b
   specs:
     artisan_engine_listability (0.0.1)
       artisan_engine_core
@@ -153,7 +153,7 @@ GEM
       railties (~> 3.0)
       rspec (~> 2.5.0)
     rubyzip (0.9.4)
-    sass (3.1.1)
+    sass (3.1.2)
     selenium-webdriver (0.2.0)
       childprocess (>= 0.1.7)
       ffi (>= 1.0.7)

@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:followthewolf/artisan_engine_core.git
-  revision: ab1917fab32e17ec7f5cb6fca94ee9c418de2c7f
+  revision: d02d2219633c2c20efaf0e6a518cc1669cf2df26
   specs:
     artisan_engine_core (0.0.1)
       barista (= 1.0.0)
@@ -14,7 +14,7 @@ GIT
 
 GIT
   remote: git@github.com:followthewolf/artisan_engine_listability.git
-  revision: c29aaef73aaf867b7a9dbb20b281d89ef6ed92b0
+  revision: 4f1d5e75508166af2989cd99a968e297f15ecc79
   specs:
     artisan_engine_listability (0.0.1)
       artisan_engine_core
